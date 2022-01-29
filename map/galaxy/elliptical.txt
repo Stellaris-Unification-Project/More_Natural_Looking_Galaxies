@@ -1,0 +1,8 @@
+# ELLIPTICAL
+
+# will work at the moment with base values from base.lua
+
+core_radius_perc = 0.15 #0.1  		  # Core radius is 30% of the galaxy radius
+stars_min_dist = 3.0 				  # Min distance between stars
+num_stars_core_perc = 0.04	#0.05     # Number of stars in core
+	
